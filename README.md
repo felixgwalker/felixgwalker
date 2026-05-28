@@ -1,70 +1,19 @@
-```md
-# Hi, I'm Felix Walker 👋
+Hi, I'm Felix.
 
-Python and TypeScript developer focused on bioinformatics, scientific tooling, and modern web applications.
+I'm a Python and TypeScript developer interested in bioinformatics, scientific computing, and building practical web applications.
 
-I enjoy building software that combines clean design, practical engineering, and computational problem-solving.
+I focus on combining software engineering with computational problem solving, particularly in areas where data, science, and tooling overlap.
 
----
+Tech stack:
+Python, TypeScript, JavaScript, React, Node.js, HTML/CSS, Git, GitHub, Jupyter Notebook
 
-## 🛠 Tech Stack
+Featured projects:
 
-### Languages
-- Python
-- TypeScript
-- JavaScript
-- HTML/CSS
+Rosalind Portfolio  
+Bioinformatics and computational biology work based on algorithmic problem solving challenges.
 
-### Tools & Technologies
-- React
-- Node.js
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
+FelixGWalker Website  
+Personal portfolio built with TypeScript and modern web development tools.
 
----
-
-## 📌 Featured Projects
-
-### 🧬 Rosalind Portfolio
-Bioinformatics and computational biology projects inspired by Rosalind challenges and algorithmic problem solving.
-
-### 🌐 FelixGWalker Website
-Personal portfolio website built with TypeScript and modern web technologies.
-
-### 🐍 Syrinx
-Experimental Python-based software and tooling project.
-
-### 🎼 Ceolmhor
-Creative and web-focused experimental development project.
-
----
-
-## 📈 Current Focus
-
-- Bioinformatics tooling
-- Full-stack development
-- Scientific computing
-- Software architecture and developer workflows
-
----
-
-## 🚀 Goals
-
-- Build polished open-source projects
-- Improve system design and scalability skills
-- Contribute to meaningful technical projects
-- Continue learning across scientific and web development domains
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/Felix-G-Walker
-
----
-
-## ⚡ Interests
-
-Bioinformatics • Scientific Computing • Web Development • Open Source
-```
+Syrinx  
+Experimental Python project exploring tooling and software ideas.
