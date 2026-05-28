@@ -1,18 +1,70 @@
-# 💫 About Me:
-Bioinformatics | Computational Modelling | Synthetic Biology
+```md
+# Hi, I'm Felix Walker 👋
 
+Python and TypeScript developer focused on bioinformatics, scientific tooling, and modern web applications.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Felix-G-Walker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Felix-G-Walker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felix-G-Walker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy building software that combines clean design, practical engineering, and computational problem-solving.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Felix-G-Walker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- TypeScript
+- JavaScript
+- HTML/CSS
+
+### Tools & Technologies
+- React
+- Node.js
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🧬 Rosalind Portfolio
+Bioinformatics and computational biology projects inspired by Rosalind challenges and algorithmic problem solving.
+
+### 🌐 FelixGWalker Website
+Personal portfolio website built with TypeScript and modern web technologies.
+
+### 🐍 Syrinx
+Experimental Python-based software and tooling project.
+
+### 🎼 Ceolmhor
+Creative and web-focused experimental development project.
+
+---
+
+## 📈 Current Focus
+
+- Bioinformatics tooling
+- Full-stack development
+- Scientific computing
+- Software architecture and developer workflows
+
+---
+
+## 🚀 Goals
+
+- Build polished open-source projects
+- Improve system design and scalability skills
+- Contribute to meaningful technical projects
+- Continue learning across scientific and web development domains
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Felix-G-Walker
+
+---
+
+## ⚡ Interests
+
+Bioinformatics • Scientific Computing • Web Development • Open Source
+```
