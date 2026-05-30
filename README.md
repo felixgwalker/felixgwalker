@@ -1,6 +1,6 @@
 Hi, I'm Felix.
 
-I'm a Python and TypeScript developer interested in bioinformatics, scientific computing, and building practical web applications.
+I'm an undergraduate developer interested in bioinformatics, scientific computing, and building practical web applications.
 
 I focus on combining software engineering with computational problem solving, particularly in areas where data, science, and tooling overlap.
 
