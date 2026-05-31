@@ -22,7 +22,7 @@ I am an incoming BSc (Hons) Biochemistry student at the University of Glasgow, f
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Syrinx**](https://github.com/felixgwalker) | Avian Vocalisation Evolution Pipeline (Phylloscopus and Willow Warblers) | Python, R |
+| [**Syrinx**](https://github.com/felixgwalker) | Avian Vocalisation Evolution Pipeline (Phylloscopus and Willow Warblers) | Python |
 | [**lorg**](https://github.com/felixgwalker) | Computational Biology Toolkit for CRISPR, aDNA, and De-extinction Scopes | Python |
 
 ---
