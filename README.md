@@ -20,9 +20,10 @@ I am an incoming BSc (Hons) Biochemistry student at the University of Glasgow, f
 
 ### GitHub Statistics
 
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixgwalker&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixgwalker&layout=compact&theme=transparent&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.anuraghazra.com/api?username=felixgwalker&show_icons=true&theme=radical&hide_border=true" alt="Felix's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=felixgwalker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+</p>
 ---
 
 ### Open Source Projects
